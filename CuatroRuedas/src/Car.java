@@ -12,6 +12,6 @@ public class Car extends Vehicle{
     }
     public void brk()
     {
-        System.out.println("The car is braking.");
+        System.out.println("The car is braking");
     }
 }
